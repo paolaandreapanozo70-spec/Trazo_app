@@ -17,7 +17,7 @@ Demo de una Aplicación web mobile ligera (*standalone*) para transformar datos 
 ### Importación flexible de datos
 - **Archivos:** Soporte para `.csv`, `.tsv`, `.txt`, `.xlsx`, `.xls` y `.ods`.
 - **Pegar directo:** Copia filas desde hojas de cálculo, PDF o páginas web.
-- **Escaneo (OCR):** Fotografía una tabla impresa con la cámara para convertirla en datos editables.
+- **Escaneo (OCR – demo interactiva):** Prototipo visual que simula la detección de tablas impresas (integración real con cámara y motor OCR en desarrollo).
 - **Entrada manual:** Crea y edita tablas desde cero.
 - **Detección inteligente:** Identifica columnas automáticamente y sugiere el gráfico adecuado.
 
