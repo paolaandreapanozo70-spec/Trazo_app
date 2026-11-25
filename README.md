@@ -5,7 +5,7 @@ Aplicación web ligera (*standalone*) para transformar datos en gráficos claros
 ![Ejemplo de gráfico generado con Trazo](./preview.png)
 
 ## Demo en vivo
-[Abrir Trazo App](https://github.com/paolaandreapanozo70-spec/Trazo_app)
+[Abrir Trazo App](https://paolaandreapanozo70-spec.github.io/Trazo_app/)
 
 ## Vista previa de la interfaz
 
