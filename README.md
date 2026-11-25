@@ -7,6 +7,11 @@ Aplicación web ligera (*standalone*) para transformar datos en gráficos claros
 ## Demo en vivo
 [Abrir Trazo App](https://github.com/paolaandreapanozo70-spec/Trazo_app)
 
+## Vista previa de la interfaz
+
+| Gráficos | Estadística | Exportación |
+| :---: | :---: | :---: |
+| ![Gráficos](./graficos.png) | ![Estadística](./estadistica.png) | ![Exportación](./exportacion.png) |
 ## Características principales
 
 ### Importación flexible de datos
