@@ -1,6 +1,6 @@
 # Trazo
 
-Aplicación web ligera (*standalone*) para transformar datos en gráficos claros, calcular estadística descriptiva al instante y exportar visualizaciones listas para publicación o impresión.
+Demo de una Aplicación web ligera (*standalone*) para transformar datos en gráficos claros, calcular estadística descriptiva al instante y exportar visualizaciones listas para publicación o impresión.
 
 ![Ejemplo de gráfico generado con Trazo](./preview.png)
 
